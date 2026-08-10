@@ -1,5 +1,5 @@
 # Bank System
-## Descriptin
+## Description
 A simple Python Bank Managemeent System.
 
 ## Features
