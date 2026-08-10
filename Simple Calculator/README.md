@@ -17,4 +17,4 @@ A simple calculator built with python that performs basic arithmetic operatios.
 1. Open the terminal.
 2. Run:
 3.    bash
-4.python simple_calculator.py
+4. python simple_calculator.py
